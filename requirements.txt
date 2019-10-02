@@ -1,0 +1,12 @@
+eventlet
+nameko==2.12.0
+numpy==1.17.2
+opencv-contrib-python
+opencv-python
+picamera
+RPi.GPIO
+nameko-redis
+Adafruit_Python_DHT
+gpiozero
+imutils
+pillow

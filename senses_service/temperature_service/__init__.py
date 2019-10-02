@@ -1,0 +1,1 @@
+from senses_service.temperature_service.temperature_service import TemperatureService
